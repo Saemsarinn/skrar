@@ -2,3 +2,4 @@
 # Lokaverkefnirett
 # Lokaverkefnirett
 # Lokaverkefnirett
+# SaemiogToti
