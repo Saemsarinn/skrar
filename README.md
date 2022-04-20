@@ -6,3 +6,4 @@
 # SaemiogToti
 # SaemiogToti
 # totiogsaemi
+# Lokaverkefniaftur
